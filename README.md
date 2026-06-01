@@ -1,2 +1,0 @@
-# irna
-tugas
